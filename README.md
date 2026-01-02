@@ -106,3 +106,48 @@ Just open the file — it works.
 git clone  https://github.com/arjalikastudio/awesome-ui-ecommerce-lite.git
 cd awesome-ui-ecommerce-lite
 open index.html
+```
+
+
+---
+## 📸 Screenshots Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="preview-1.png" width="100%" alt="Home – Hero Slider & Product Grid"/><br/>
+      <b>Home</b><br/>
+      <sub>Hero Slider & Product Grid</sub>
+    </td>
+    <td align="center">
+      <img src="preview-6.png" width="100%" alt="Home – Dark Mode"/><br/>
+      <b>Home</b><br/>
+      <sub>Dark Mode</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="preview-2.png" width="100%" alt="Order History"/><br/>
+      <b>Order History</b><br/>
+      <sub>Premium Header & Status</sub>
+    </td>
+    <td align="center">
+      <img src="preview-3.png" width="100%" alt="Wishlist"/><br/>
+      <b>Wishlist</b><br/>
+      <sub>Clean & Emotional Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="preview-4.png" width="100%" alt="Seller Dashboard"/><br/>
+      <b>Seller Dashboard</b><br/>
+      <sub>Stats & Revenue</sub>
+    </td>
+    <td align="center">
+      <img src="preview-5.png" width="100%" alt="Settings"/><br/>
+      <b>Settings</b><br/>
+      <sub>Minimal & Elegant</sub>
+    </td>
+  </tr>
+</table>
+
