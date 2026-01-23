@@ -6,6 +6,14 @@ This project focuses on **premium interaction, micro-animation, and mobile-first
 
 ---
 
+## ☕ Support the Creator
+
+If you find this project useful or inspiring,
+consider supporting the creator via LYNK 🙌 . 
+<a href="https://lynk.id/arjalikastudio/s/G6Qm5Ja" target="_blank">Buy me a Coffee</a>
+
+Thank you for supporting independent creators 🚀
+
 ## ✨ Key Highlights
 
 ### 🧊 Signature Crystal / Frost Experience
